@@ -5,7 +5,7 @@ import Users from './Users';
 function App() {
 
 function getData(name){
-  alert("Hello There from App component: " +name)
+  alert("Hello There from App component: " + name)
 }
 
   return (
